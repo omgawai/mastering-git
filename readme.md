@@ -1,3 +1,3 @@
-# Heyoo everyone, welcome to my Git guide!
-- Yo , Jonny here!
+# Welcome to Git!
+- This is coming from 'dev-Om'
 - I'm adding this form 'feature-branch(two)' 
